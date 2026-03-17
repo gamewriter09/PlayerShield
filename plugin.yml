@@ -1,0 +1,6 @@
+name: PlayerShield
+version: 1.0
+main: com.akuma.playershield.PlayerShield
+api-version: 1.21
+depend: [floodgate]
+description: Cross-platform protection for AkumaPlay.
